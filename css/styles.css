@@ -877,6 +877,8 @@ img {
   display: flex;
   margin-top: 20px;
   margin-bottom: 30px;
+  justify-content: center;
+  align-items: center;
 }
 
 .check-lable {
@@ -892,8 +894,6 @@ img {
 
 .check-lable span {
   display: flex;
-  align-items: center;
-  justify-content: center;
   width: 16px;
   height: 15px;
   margin-right: 8px;
